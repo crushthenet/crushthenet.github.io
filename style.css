@@ -1,0 +1,20 @@
+.container {
+	margin: auto;
+	width: 800px;
+}
+
+h1 {
+	font-size: 122px;
+	text-align: center;
+	margin-bottom: 0;
+}
+h3 {
+	margin: 0;
+	font-size: 46px;
+	text-align: center;
+}
+a {
+	text-decoration: none;
+	color: green;
+	
+}
